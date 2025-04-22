@@ -1,1 +1,3 @@
-# C_Intro_Codes
+# C Introduction Course 
+
+Some fun codes for introduction to C.
